@@ -1,0 +1,10 @@
+C:\Users\Onlym\source\repos\9_for_foreach\9_for_foreach\bin\Debug\9_for_foreach.exe.config
+C:\Users\Onlym\source\repos\9_for_foreach\9_for_foreach\bin\Debug\9_for_foreach.exe
+C:\Users\Onlym\source\repos\9_for_foreach\9_for_foreach\bin\Debug\9_for_foreach.pdb
+C:\Users\Onlym\source\repos\9_for_foreach\9_for_foreach\obj\Debug\9_for_foreach.csprojAssemblyReference.cache
+C:\Users\Onlym\source\repos\9_for_foreach\9_for_foreach\obj\Debug\_9_for_foreach.Properties.Resources.resources
+C:\Users\Onlym\source\repos\9_for_foreach\9_for_foreach\obj\Debug\9_for_foreach.csproj.GenerateResource.cache
+C:\Users\Onlym\source\repos\9_for_foreach\9_for_foreach\obj\Debug\9_for_foreach.csproj.CoreCompileInputs.cache
+C:\Users\Onlym\source\repos\9_for_foreach\9_for_foreach\obj\Debug\9_for_foreach.exe
+C:\Users\Onlym\source\repos\9_for_foreach\9_for_foreach\obj\Debug\9_for_foreach.pdb
+C:\Users\Onlym\source\repos\9_for_foreach\9_for_foreach\obj\Debug\_9_for_foreach.btnForeach.resources

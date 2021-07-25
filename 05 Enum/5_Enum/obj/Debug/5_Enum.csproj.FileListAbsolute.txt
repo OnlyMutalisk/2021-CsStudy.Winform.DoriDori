@@ -1,0 +1,10 @@
+C:\Users\Onlym\source\repos\5_Enum\5_Enum\bin\Debug\5_Enum.exe.config
+C:\Users\Onlym\source\repos\5_Enum\5_Enum\bin\Debug\5_Enum.exe
+C:\Users\Onlym\source\repos\5_Enum\5_Enum\bin\Debug\5_Enum.pdb
+C:\Users\Onlym\source\repos\5_Enum\5_Enum\obj\Debug\5_Enum.csprojAssemblyReference.cache
+C:\Users\Onlym\source\repos\5_Enum\5_Enum\obj\Debug\_5_Enum.Form1.resources
+C:\Users\Onlym\source\repos\5_Enum\5_Enum\obj\Debug\_5_Enum.Properties.Resources.resources
+C:\Users\Onlym\source\repos\5_Enum\5_Enum\obj\Debug\5_Enum.csproj.GenerateResource.cache
+C:\Users\Onlym\source\repos\5_Enum\5_Enum\obj\Debug\5_Enum.csproj.CoreCompileInputs.cache
+C:\Users\Onlym\source\repos\5_Enum\5_Enum\obj\Debug\5_Enum.exe
+C:\Users\Onlym\source\repos\5_Enum\5_Enum\obj\Debug\5_Enum.pdb

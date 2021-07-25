@@ -1,0 +1,10 @@
+C:\Users\Onlym\source\repos\if_switch\if_switch\bin\Debug\if_switch.exe.config
+C:\Users\Onlym\source\repos\if_switch\if_switch\bin\Debug\if_switch.exe
+C:\Users\Onlym\source\repos\if_switch\if_switch\bin\Debug\if_switch.pdb
+C:\Users\Onlym\source\repos\if_switch\if_switch\obj\Debug\if_switch.csprojAssemblyReference.cache
+C:\Users\Onlym\source\repos\if_switch\if_switch\obj\Debug\if_switch.Form1.resources
+C:\Users\Onlym\source\repos\if_switch\if_switch\obj\Debug\if_switch.Properties.Resources.resources
+C:\Users\Onlym\source\repos\if_switch\if_switch\obj\Debug\if_switch.csproj.GenerateResource.cache
+C:\Users\Onlym\source\repos\if_switch\if_switch\obj\Debug\if_switch.csproj.CoreCompileInputs.cache
+C:\Users\Onlym\source\repos\if_switch\if_switch\obj\Debug\if_switch.exe
+C:\Users\Onlym\source\repos\if_switch\if_switch\obj\Debug\if_switch.pdb

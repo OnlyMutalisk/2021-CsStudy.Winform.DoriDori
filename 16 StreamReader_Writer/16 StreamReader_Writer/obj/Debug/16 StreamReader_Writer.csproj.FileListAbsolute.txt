@@ -1,0 +1,10 @@
+C:\Users\Onlym\source\repos\16 StreamReader_Writer\16 StreamReader_Writer\bin\Debug\16 StreamReader_Writer.exe.config
+C:\Users\Onlym\source\repos\16 StreamReader_Writer\16 StreamReader_Writer\bin\Debug\16 StreamReader_Writer.exe
+C:\Users\Onlym\source\repos\16 StreamReader_Writer\16 StreamReader_Writer\bin\Debug\16 StreamReader_Writer.pdb
+C:\Users\Onlym\source\repos\16 StreamReader_Writer\16 StreamReader_Writer\obj\Debug\16 StreamReader_Writer.csprojAssemblyReference.cache
+C:\Users\Onlym\source\repos\16 StreamReader_Writer\16 StreamReader_Writer\obj\Debug\_16_StreamReader_Writer.Form1.resources
+C:\Users\Onlym\source\repos\16 StreamReader_Writer\16 StreamReader_Writer\obj\Debug\_16_StreamReader_Writer.Properties.Resources.resources
+C:\Users\Onlym\source\repos\16 StreamReader_Writer\16 StreamReader_Writer\obj\Debug\16 StreamReader_Writer.csproj.GenerateResource.cache
+C:\Users\Onlym\source\repos\16 StreamReader_Writer\16 StreamReader_Writer\obj\Debug\16 StreamReader_Writer.csproj.CoreCompileInputs.cache
+C:\Users\Onlym\source\repos\16 StreamReader_Writer\16 StreamReader_Writer\obj\Debug\16 StreamReader_Writer.exe
+C:\Users\Onlym\source\repos\16 StreamReader_Writer\16 StreamReader_Writer\obj\Debug\16 StreamReader_Writer.pdb

@@ -1,0 +1,10 @@
+C:\Users\Onlym\source\repos\10_while_dowhile\10_while_dowhile\bin\Debug\10_while_dowhile.exe.config
+C:\Users\Onlym\source\repos\10_while_dowhile\10_while_dowhile\bin\Debug\10_while_dowhile.exe
+C:\Users\Onlym\source\repos\10_while_dowhile\10_while_dowhile\bin\Debug\10_while_dowhile.pdb
+C:\Users\Onlym\source\repos\10_while_dowhile\10_while_dowhile\obj\Debug\10_while_dowhile.csprojAssemblyReference.cache
+C:\Users\Onlym\source\repos\10_while_dowhile\10_while_dowhile\obj\Debug\_10_while_dowhile.Properties.Resources.resources
+C:\Users\Onlym\source\repos\10_while_dowhile\10_while_dowhile\obj\Debug\10_while_dowhile.csproj.GenerateResource.cache
+C:\Users\Onlym\source\repos\10_while_dowhile\10_while_dowhile\obj\Debug\10_while_dowhile.csproj.CoreCompileInputs.cache
+C:\Users\Onlym\source\repos\10_while_dowhile\10_while_dowhile\obj\Debug\10_while_dowhile.exe
+C:\Users\Onlym\source\repos\10_while_dowhile\10_while_dowhile\obj\Debug\10_while_dowhile.pdb
+C:\Users\Onlym\source\repos\10_while_dowhile\10_while_dowhile\obj\Debug\_10_while_dowhile.form1.resources

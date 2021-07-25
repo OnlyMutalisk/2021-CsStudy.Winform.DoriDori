@@ -1,0 +1,10 @@
+C:\Users\Onlym\source\repos\11_Struct_Class\11_Struct_Class\bin\Debug\11_Struct_Class.exe.config
+C:\Users\Onlym\source\repos\11_Struct_Class\11_Struct_Class\bin\Debug\11_Struct_Class.exe
+C:\Users\Onlym\source\repos\11_Struct_Class\11_Struct_Class\bin\Debug\11_Struct_Class.pdb
+C:\Users\Onlym\source\repos\11_Struct_Class\11_Struct_Class\obj\Debug\11_Struct_Class.csprojAssemblyReference.cache
+C:\Users\Onlym\source\repos\11_Struct_Class\11_Struct_Class\obj\Debug\_11_Struct_Class.Properties.Resources.resources
+C:\Users\Onlym\source\repos\11_Struct_Class\11_Struct_Class\obj\Debug\11_Struct_Class.csproj.GenerateResource.cache
+C:\Users\Onlym\source\repos\11_Struct_Class\11_Struct_Class\obj\Debug\11_Struct_Class.csproj.CoreCompileInputs.cache
+C:\Users\Onlym\source\repos\11_Struct_Class\11_Struct_Class\obj\Debug\11_Struct_Class.exe
+C:\Users\Onlym\source\repos\11_Struct_Class\11_Struct_Class\obj\Debug\11_Struct_Class.pdb
+C:\Users\Onlym\source\repos\11_Struct_Class\11_Struct_Class\obj\Debug\_11_Struct_Class.Form1.resources

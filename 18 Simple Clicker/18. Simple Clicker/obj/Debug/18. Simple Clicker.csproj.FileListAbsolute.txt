@@ -1,0 +1,10 @@
+C:\Users\Onlym\source\repos\18. Simple Clicker\18. Simple Clicker\obj\Debug\18. Simple Clicker.csproj.AssemblyReference.cache
+C:\Users\Onlym\source\repos\18. Simple Clicker\18. Simple Clicker\obj\Debug\_18.Simple_Clicker.Form1.resources
+C:\Users\Onlym\source\repos\18. Simple Clicker\18. Simple Clicker\obj\Debug\_18.Simple_Clicker.Properties.Resources.resources
+C:\Users\Onlym\source\repos\18. Simple Clicker\18. Simple Clicker\obj\Debug\18. Simple Clicker.csproj.GenerateResource.cache
+C:\Users\Onlym\source\repos\18. Simple Clicker\18. Simple Clicker\obj\Debug\18. Simple Clicker.csproj.CoreCompileInputs.cache
+C:\Users\Onlym\source\repos\18. Simple Clicker\18. Simple Clicker\bin\Debug\_18.Simple_Clicker.exe.config
+C:\Users\Onlym\source\repos\18. Simple Clicker\18. Simple Clicker\bin\Debug\_18.Simple_Clicker.exe
+C:\Users\Onlym\source\repos\18. Simple Clicker\18. Simple Clicker\bin\Debug\_18.Simple_Clicker.pdb
+C:\Users\Onlym\source\repos\18. Simple Clicker\18. Simple Clicker\obj\Debug\_18.Simple_Clicker.exe
+C:\Users\Onlym\source\repos\18. Simple Clicker\18. Simple Clicker\obj\Debug\_18.Simple_Clicker.pdb
