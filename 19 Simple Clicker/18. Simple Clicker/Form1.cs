@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading;
@@ -13,14 +14,18 @@ namespace _18.Simple_Clicker
 {
     public partial class Form1 : Form
     {
+        Dictionary<string, string> dc = new Dictionary<string, string>();
+        CXMLControl xml = new CXMLControl();
+        string strPath = Application.StartupPath + "\\Save.txt";
+
         private double iTick = 0;
         private double iTotal = 0;
 
         private int i1Add = 1;
         private int i1Level = 1;
 
-        private int i3Add = 3;
-        private int i3Level = 1;
+        private int i3Add = 0;
+        private int i3Level =0;
 
         private int i50Add = 0;
         private int i50Level = 0;
@@ -34,11 +39,40 @@ namespace _18.Simple_Clicker
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            if (File.Exists(strPath))
+            {
+                // File 이 있을 경우 File Loading
+                dc = xml.fXML_Reader(strPath);
+
+                iTick = double.Parse(dc[CXMLControl._TICK]);
+                iTotal = double.Parse(dc[CXMLControl._TOTAL]);
+                i1Level = int.Parse(dc[CXMLControl._LEVEL_1]);
+                i3Level = int.Parse(dc[CXMLControl._LEVEL_3]);
+                i50Level = int.Parse(dc[CXMLControl._LEVEL_50]);
+
+                i1Add = 1 * i1Level;
+                i3Add = 3 * i3Level;
+                i50Add = 50 * i50Level;
+            }
+
             System.Windows.Forms.Timer tm = new System.Windows.Forms.Timer();
             tm.Enabled = true;
             tm.Interval = 100;
             tm.Tick += OTimer_Tick;
             tm.Start();
+        }
+
+        private void Form1_FormClosed(object sender, System.Windows.Forms.FormClosedEventArgs e)
+        {
+            dc.Clear();
+
+            dc.Add(CXMLControl._TICK, iTick.ToString());
+            dc.Add(CXMLControl._TOTAL, iTotal.ToString());
+            dc.Add(CXMLControl._LEVEL_1, i1Level.ToString());
+            dc.Add(CXMLControl._LEVEL_3, i3Level.ToString());
+            dc.Add(CXMLControl._LEVEL_50, i50Level.ToString());
+
+            xml.fXML_Writer(strPath, dc);
         }
 
         // 타이머에서 호출 할 Event ( Interval 간격 기준 )
@@ -82,7 +116,7 @@ namespace _18.Simple_Clicker
                         iTotal -= 5000;
 
                         i50Level++;
-                        i50Add = 3 * i50Level;
+                        i50Add = 50 * i50Level;
                     }
                     break;
 
